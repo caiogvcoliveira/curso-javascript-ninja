@@ -37,8 +37,9 @@ soma == myvar (false)
 myvar <= soma (false)
 
 // Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles.
-
+function divisao(x,y) {
+      retunr x/y; }; 
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
-?
+divisao(15,8)
 ```
